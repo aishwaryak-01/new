@@ -1,3 +1,4 @@
 Hi
-Welcome to my Git Session
-My language is JAVASCRIPT.
+Welcome to my Git Session.
+
+Thank you:)
